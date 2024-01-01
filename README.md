@@ -3,7 +3,7 @@
 
 - You can check the ```conf-aws-img/``` folder to see the screenshots of config: security group, vpc, route tables, subnet.
 
-- Instructions to create a new EC2 instance on AWS can be followed by this [link](https://www.youtube.com/watch?v=N4S6UjR6gUY&t=300s).
+- Instructions to create a new EC2 instance on AWS can be followed by this [link](https://www.youtube.com/watch?v=N4S6UjR6gUY).
 
 After all are set. You can now: 
 
